@@ -1,5 +1,5 @@
 {
-  "issued": 1794731471617,
+  "issued": 1794731622426,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,31 +9,31 @@
     "apks": {
       "arm64-v8a": {
         "mirror": null,
-        "sha256": "5341a76d3b3ea3d004ceb1472fbe37f13de2899540afb56cddbe05bad72c42e5",
-        "size": 28568162,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.54/ApnaTV-5.0.54-20261115-1309-phone.apk"
+        "sha256": "337478f4745cd86cd6342d4abd95e2e9771d8188e1be0bd669e48ebe80185026",
+        "size": 28579607,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.55/ApnaTV-5.0.55-20261115-1401-phone.apk"
       },
       "armeabi-v7a": {
         "mirror": null,
-        "sha256": "636c7a91971ab149d5235bf00f45231ca32eee79d037652747a5a91506cecd07",
-        "size": 28252429,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.54/ApnaTV-5.0.54-20261115-1309-tv.apk"
+        "sha256": "c808d80caab1847f5b41ee23acfd8cfb82ae968f4b691df7d156d62633fe3c3e",
+        "size": 28263880,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.55/ApnaTV-5.0.55-20261115-1401-tv.apk"
       },
       "universal": {
         "mirror": null,
-        "sha256": "63866dd54dc91f255ae62f43435cf9cce6a33724f5602f3b5c6c1b442c55af95",
-        "size": 33110880,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.54/ApnaTV-5.0.54-20261115-1309-universal.apk"
+        "sha256": "a8202926b70317ca8f8765c97cc65031c77718508e462971f35cd03a6a167e65",
+        "size": 33122336,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.55/ApnaTV-5.0.55-20261115-1401-universal.apk"
       }
     },
     "minSdk": 23,
-    "notes": "Self-update test: ab app khud update hota hai",
-    "notesHi": "जाँच: अब ऐप खुद अपडेट होता है",
-    "phoneFrom": 1794728408185,
+    "notes": "Update ab screen par dikhta hai, aur naya swagat card",
+    "notesHi": "अपडेट अब स्क्रीन पर दिखता है, और नया स्वागत कार्ड",
+    "phoneFrom": 1794731622401,
     "required": false,
-    "tvFrom": 1794728408185,
-    "versionCode": 458379,
-    "versionName": "5.0.54"
+    "tvFrom": 1794731622401,
+    "versionCode": 458431,
+    "versionName": "5.0.55"
   },
   "v": 1
 }
