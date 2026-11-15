@@ -1,5 +1,5 @@
 {
-  "issued": 1794730011852,
+  "issued": 1794730537852,
   "never": [],
   "off": [],
   "plugins": [],
@@ -8,9 +8,9 @@
   "update": {
     "apks": {
       "arm64-v8a": {
-        "sha256": "f5806ba3183d97ded7443934fd26d8f630b0814061a3ea7ced4c79f5e7aa48f2",
-        "size": 35958597,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/test-458406/apna-test-458406.apk"
+        "sha256": "4a87843c71c57bd9b1297d9ee85b035a147de1083189978a042619b01abd09aa",
+        "size": 35959275,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/test-458415/apna-test-458415.apk"
       }
     },
     "minSdk": 23,
@@ -18,7 +18,7 @@
     "notesHi": "अपडेट अब स्क्रीन पर दिखता है, और नया स्वागत कार्ड",
     "phoneFrom": 0,
     "tvFrom": 0,
-    "versionCode": 458406,
+    "versionCode": 458415,
     "versionName": "5.0.55"
   },
   "v": 1
