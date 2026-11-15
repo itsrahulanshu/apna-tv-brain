@@ -1,5 +1,5 @@
 {
-  "issued": 1794728408212,
+  "issued": 1794730011852,
   "never": [],
   "off": [],
   "plugins": [],
@@ -8,32 +8,18 @@
   "update": {
     "apks": {
       "arm64-v8a": {
-        "mirror": null,
-        "sha256": "5341a76d3b3ea3d004ceb1472fbe37f13de2899540afb56cddbe05bad72c42e5",
-        "size": 28568162,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.54/ApnaTV-5.0.54-20261115-1309-phone.apk"
-      },
-      "armeabi-v7a": {
-        "mirror": null,
-        "sha256": "636c7a91971ab149d5235bf00f45231ca32eee79d037652747a5a91506cecd07",
-        "size": 28252429,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.54/ApnaTV-5.0.54-20261115-1309-tv.apk"
-      },
-      "universal": {
-        "mirror": null,
-        "sha256": "63866dd54dc91f255ae62f43435cf9cce6a33724f5602f3b5c6c1b442c55af95",
-        "size": 33110880,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.54/ApnaTV-5.0.54-20261115-1309-universal.apk"
+        "sha256": "f5806ba3183d97ded7443934fd26d8f630b0814061a3ea7ced4c79f5e7aa48f2",
+        "size": 35958597,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/test-458406/apna-test-458406.apk"
       }
     },
     "minSdk": 23,
-    "notes": "Self-update test: ab app khud update hota hai",
-    "notesHi": "जाँच: अब ऐप खुद अपडेट होता है",
-    "phoneFrom": 1794728408185,
-    "required": false,
-    "tvFrom": 1794728408185,
-    "versionCode": 458379,
-    "versionName": "5.0.54"
+    "notes": "Update ab screen par dikhta hai, aur naya swagat card",
+    "notesHi": "अपडेट अब स्क्रीन पर दिखता है, और नया स्वागत कार्ड",
+    "phoneFrom": 0,
+    "tvFrom": 0,
+    "versionCode": 458406,
+    "versionName": "5.0.55"
   },
   "v": 1
 }
