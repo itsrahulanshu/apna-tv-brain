@@ -1,5 +1,5 @@
 {
-  "issued": 1794740970353,
+  "issued": 1794751350229,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,32 +9,32 @@
     "apks": {
       "arm64-v8a": {
         "mirror": null,
-        "sha256": "33988f4ac387d9286f49d6f3c799093d3d3f43ae23e8157a3b6d453433877d9b",
-        "size": 28607013,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.58/ApnaTV-5.0.58-20261115-1639-phone.apk"
+        "sha256": "598b08015f1e7be02111dc34a9fdf8a395b9994ed32a7832d21c49f1ccfc72f5",
+        "size": 28665412,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.62/ApnaTV-5.0.62-20261115-1918-phone.apk"
       },
       "armeabi-v7a": {
         "mirror": null,
-        "sha256": "3113f8e8e2e67e0921496e98c154db4e781e2c8e317ad97b95127f979dc79b47",
-        "size": 28291274,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.58/ApnaTV-5.0.58-20261115-1639-tv.apk"
+        "sha256": "1dfd0d222b2e6580d9e876cb1a86b30dfa218559e03fb4367f2009dec50bad28",
+        "size": 28349683,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.62/ApnaTV-5.0.62-20261115-1918-tv.apk"
       },
       "universal": {
         "mirror": null,
-        "sha256": "77efb3d1a4035838a603c2934fc4eea287a36d6374fbb9501c0d7fbbf047dbac",
-        "size": 33149726,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.58/ApnaTV-5.0.58-20261115-1639-universal.apk"
+        "sha256": "fb2e0b818978504cb2e08e2972de0102a10e72d1599fcfc673bf363e9c331806",
+        "size": 33208136,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.62/ApnaTV-5.0.62-20261115-1918-universal.apk"
       }
     },
     "minSdk": 23,
-    "notes": "Ab Zee TV aur baaki channels par bhi 'abhi kya chal raha hai'",
-    "notesEn": "Now-playing guide for Zee TV and more channels",
-    "notesHi": "अब ज़ी टीवी और बाकी चैनलों पर भी 'अभी क्या चल रहा है'",
-    "phoneFrom": 1794740970326,
+    "notes": "Film ab jaldi chalti hai, Aaj Tak HD, top 10 channel pehle",
+    "notesEn": "Films start faster, Aaj Tak HD, top 10 channels first",
+    "notesHi": "फ़िल्म अब जल्दी चलती है, आज तक HD, टॉप 10 चैनल पहले",
+    "phoneFrom": 1794751350201,
     "required": false,
-    "tvFrom": 1794740970326,
-    "versionCode": 458588,
-    "versionName": "5.0.58"
+    "tvFrom": 1794751350201,
+    "versionCode": 458748,
+    "versionName": "5.0.62"
   },
   "v": 1
 }
