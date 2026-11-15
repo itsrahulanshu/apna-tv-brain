@@ -1,9 +1,39 @@
 {
-  "issued": 1794728052914,
+  "issued": 1794728408212,
   "never": [],
   "off": [],
   "plugins": [],
   "repoMoved": {},
   "repos": [],
+  "update": {
+    "apks": {
+      "arm64-v8a": {
+        "mirror": null,
+        "sha256": "5341a76d3b3ea3d004ceb1472fbe37f13de2899540afb56cddbe05bad72c42e5",
+        "size": 28568162,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.54/ApnaTV-5.0.54-20261115-1309-phone.apk"
+      },
+      "armeabi-v7a": {
+        "mirror": null,
+        "sha256": "636c7a91971ab149d5235bf00f45231ca32eee79d037652747a5a91506cecd07",
+        "size": 28252429,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.54/ApnaTV-5.0.54-20261115-1309-tv.apk"
+      },
+      "universal": {
+        "mirror": null,
+        "sha256": "63866dd54dc91f255ae62f43435cf9cce6a33724f5602f3b5c6c1b442c55af95",
+        "size": 33110880,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.54/ApnaTV-5.0.54-20261115-1309-universal.apk"
+      }
+    },
+    "minSdk": 23,
+    "notes": "Self-update test: ab app khud update hota hai",
+    "notesHi": "जाँच: अब ऐप खुद अपडेट होता है",
+    "phoneFrom": 1794728408185,
+    "required": false,
+    "tvFrom": 1794728408185,
+    "versionCode": 458379,
+    "versionName": "5.0.54"
+  },
   "v": 1
 }
