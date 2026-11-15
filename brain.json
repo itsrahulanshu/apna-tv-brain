@@ -1,5 +1,5 @@
 {
-  "issued": 1794732486611,
+  "issued": 1794737644908,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,31 +9,32 @@
     "apks": {
       "arm64-v8a": {
         "mirror": null,
-        "sha256": "0fc3a4022b7edf39d068cadc18d187f9a0e6ff770fb59c41a39d55eb1a5546bc",
-        "size": 28579260,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.56/ApnaTV-5.0.56-20261115-1417-phone.apk"
+        "sha256": "6730ab641d6bc0f58815461a3e49a6db3edb64a8ba5e48600d218a3d2eb42309",
+        "size": 28599614,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.57/ApnaTV-5.0.57-20261115-1543-phone.apk"
       },
       "armeabi-v7a": {
         "mirror": null,
-        "sha256": "f92dc9767613e7798aeb1546f5eb52f6c45f76da4908cd34a9dc39198821343c",
-        "size": 28263528,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.56/ApnaTV-5.0.56-20261115-1417-tv.apk"
+        "sha256": "6350ecbc0dd543d7bd42a20a56c54c7dc6cf7ca8e15e8251a8f458ca0de0df3b",
+        "size": 28283883,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.57/ApnaTV-5.0.57-20261115-1543-tv.apk"
       },
       "universal": {
         "mirror": null,
-        "sha256": "0b885c6b331371e371957f2429629e8c0e6478807629a5860699dda049dd5589",
-        "size": 33121972,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.56/ApnaTV-5.0.56-20261115-1417-universal.apk"
+        "sha256": "f98566bb9d4f717674db8466adfad1ba85eab3bb7b4945dfd7187ea885e0a771",
+        "size": 33142334,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.57/ApnaTV-5.0.57-20261115-1543-universal.apk"
       }
     },
     "minSdk": 23,
-    "notes": "Update ab mobile data par bhi, aur Settings me App update Advanced ke neeche",
-    "notesHi": "अपडेट अब मोबाइल डेटा पर भी, और सेटिंग्स में ऐप अपडेट Advanced के नीचे",
-    "phoneFrom": 1794732486584,
+    "notes": "Zee TV phir se chalta hai, aur saaf naye cards",
+    "notesEn": "Zee TV plays again, and cleaner cards",
+    "notesHi": "ज़ी टीवी फिर से चलता है, और साफ़ नए कार्ड",
+    "phoneFrom": 1794737644878,
     "required": false,
-    "tvFrom": 1794732486584,
-    "versionCode": 458446,
-    "versionName": "5.0.56"
+    "tvFrom": 1794737644878,
+    "versionCode": 458532,
+    "versionName": "5.0.57"
   },
   "v": 1
 }
