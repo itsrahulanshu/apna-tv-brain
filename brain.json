@@ -1,5 +1,5 @@
 {
-  "issued": 1794911828199,
+  "issued": 1794914107834,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,32 +9,32 @@
     "apks": {
       "arm64-v8a": {
         "mirror": null,
-        "sha256": "aaed5f603d4c19921622e74653b816314679cecaa0e9db9ebbad57144206e758",
-        "size": 29128093,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.26/ApnaTV-5.3.26-20261117-1604-phone.apk"
+        "sha256": "f398bbb99d840861da638b0c2a77e9756c8e16409ab7d3e3215b42ac1d50782c",
+        "size": 29144870,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.28/ApnaTV-5.3.28-20261117-1640-phone.apk"
       },
       "armeabi-v7a": {
         "mirror": null,
-        "sha256": "009a8e7bfec586ae5e8abf5459456acb5b0bc1aeb49118f844e43e2bc380673f",
-        "size": 28812374,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.26/ApnaTV-5.3.26-20261117-1604-tv.apk"
+        "sha256": "e34d2dad1b813b1982963bd9ee291e4e041e46e64b66f367adaeee8a8d72477a",
+        "size": 28829144,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.28/ApnaTV-5.3.28-20261117-1640-tv.apk"
       },
       "universal": {
         "mirror": null,
-        "sha256": "caf49244376e3df76571a1a0c3f5c844baa30a2b9aeb966a9d72d3bec82e4794",
-        "size": 33670837,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.26/ApnaTV-5.3.26-20261117-1604-universal.apk"
+        "sha256": "1bc0e1a76b2c4dddbda7ba48668edb7756cba51adad3d4e4cd264910427ed113",
+        "size": 33687603,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.28/ApnaTV-5.3.28-20261117-1640-universal.apk"
       }
     },
     "minSdk": 23,
-    "notes": "Movies tab ki jaankari upar; 18+ filter sirf 3 tabs par; naam saaf; poster TMDB se",
-    "notesEn": "Movies tabs explain themselves on top; 18+ filter only on 3 tabs; clean names; missing posters from TMDB",
-    "notesHi": "मूवीज़ टैब की जानकारी ऊपर; 18+ फ़िल्टर सिर्फ़ 3 टैब पर; नाम साफ़; पोस्टर TMDB से",
-    "phoneFrom": 1794911828172,
+    "notes": "Aaj ke liye 14 pasand jaisi filmein; IMDb rating har page par; 3 poster sirf IMDb 8.0+",
+    "notesEn": "Today's Picks: 14 titles like what you watch; IMDb ratings on pages; the 3 posters only IMDb 8.0+",
+    "notesHi": "आज के लिए 14 पसंद जैसी फ़िल्में; हर पेज पर IMDb रेटिंग; 3 पोस्टर सिर्फ़ IMDb 8.0+",
+    "phoneFrom": 1794914107806,
     "required": false,
-    "tvFrom": 1795171028172,
-    "versionCode": 461434,
-    "versionName": "5.3.26"
+    "tvFrom": 1795173307806,
+    "versionCode": 461470,
+    "versionName": "5.3.28"
   },
   "v": 1
 }
