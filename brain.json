@@ -1,5 +1,5 @@
 {
-  "issued": 1794908721226,
+  "issued": 1794911828199,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,32 +9,32 @@
     "apks": {
       "arm64-v8a": {
         "mirror": null,
-        "sha256": "ac91cfaff1c59fe1c8a543f9cbd90a4511a28f7797ced27c92039ec80969f7a4",
-        "size": 29110650,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.25/ApnaTV-5.3.25-20261117-1512-phone.apk"
+        "sha256": "aaed5f603d4c19921622e74653b816314679cecaa0e9db9ebbad57144206e758",
+        "size": 29128093,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.26/ApnaTV-5.3.26-20261117-1604-phone.apk"
       },
       "armeabi-v7a": {
         "mirror": null,
-        "sha256": "e097b09ca65eb85a594afb1b48daeda505fe82ccc824db835b029504ebc904e9",
-        "size": 28794919,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.25/ApnaTV-5.3.25-20261117-1512-tv.apk"
+        "sha256": "009a8e7bfec586ae5e8abf5459456acb5b0bc1aeb49118f844e43e2bc380673f",
+        "size": 28812374,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.26/ApnaTV-5.3.26-20261117-1604-tv.apk"
       },
       "universal": {
         "mirror": null,
-        "sha256": "30b34d05fb128c235e7507163e57ad50fdd722a013a885b874996e7bb9d47327",
-        "size": 33653378,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.25/ApnaTV-5.3.25-20261117-1512-universal.apk"
+        "sha256": "caf49244376e3df76571a1a0c3f5c844baa30a2b9aeb966a9d72d3bec82e4794",
+        "size": 33670837,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.26/ApnaTV-5.3.26-20261117-1604-universal.apk"
       }
     },
     "minSdk": 23,
-    "notes": "TV par sab pages zyada smooth; poora na dikhne wala naam cursor rukte hi chalta hai; khud chalayi film Aage dekhiye mein",
-    "notesEn": "Smoother on every TV page; names that do not fit scroll when the cursor rests; a film you started stays in Continue watching",
-    "notesHi": "टीवी पर सब पेज ज़्यादा स्मूथ; पूरा न दिखने वाला नाम कर्सर रुकते ही चलता है; ख़ुद चलाई फ़िल्म आगे देखिए में",
-    "phoneFrom": 1794908721199,
+    "notes": "Movies tab ki jaankari upar; 18+ filter sirf 3 tabs par; naam saaf; poster TMDB se",
+    "notesEn": "Movies tabs explain themselves on top; 18+ filter only on 3 tabs; clean names; missing posters from TMDB",
+    "notesHi": "मूवीज़ टैब की जानकारी ऊपर; 18+ फ़िल्टर सिर्फ़ 3 टैब पर; नाम साफ़; पोस्टर TMDB से",
+    "phoneFrom": 1794911828172,
     "required": false,
-    "tvFrom": 1795167921199,
-    "versionCode": 461381,
-    "versionName": "5.3.25"
+    "tvFrom": 1795171028172,
+    "versionCode": 461434,
+    "versionName": "5.3.26"
   },
   "v": 1
 }
