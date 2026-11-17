@@ -1,5 +1,5 @@
 {
-  "issued": 1794751350229,
+  "issued": 1794905580737,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,32 +9,32 @@
     "apks": {
       "arm64-v8a": {
         "mirror": null,
-        "sha256": "598b08015f1e7be02111dc34a9fdf8a395b9994ed32a7832d21c49f1ccfc72f5",
-        "size": 28665412,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.62/ApnaTV-5.0.62-20261115-1918-phone.apk"
+        "sha256": "2710b51460e266461538254b6ef87725595e3ebdfbe49d9e079b56daa2214571",
+        "size": 29110087,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.23/ApnaTV-5.3.23-20261117-1410-phone.apk"
       },
       "armeabi-v7a": {
         "mirror": null,
-        "sha256": "1dfd0d222b2e6580d9e876cb1a86b30dfa218559e03fb4367f2009dec50bad28",
-        "size": 28349683,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.62/ApnaTV-5.0.62-20261115-1918-tv.apk"
+        "sha256": "fe1945f94ae70fd1e8ebf90f6f8d4074bc491a2afbcbe8e1f15bcecfea951e32",
+        "size": 28794364,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.23/ApnaTV-5.3.23-20261117-1410-tv.apk"
       },
       "universal": {
         "mirror": null,
-        "sha256": "fb2e0b818978504cb2e08e2972de0102a10e72d1599fcfc673bf363e9c331806",
-        "size": 33208136,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.0.62/ApnaTV-5.0.62-20261115-1918-universal.apk"
+        "sha256": "d08ba0d326049e4a0db2670855cc136a8e208873b4eac2a7d1ee7f23490cc20e",
+        "size": 33652828,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.23/ApnaTV-5.3.23-20261117-1410-universal.apk"
       }
     },
     "minSdk": 23,
-    "notes": "Film ab jaldi chalti hai, Aaj Tak HD, top 10 channel pehle",
-    "notesEn": "Films start faster, Aaj Tak HD, top 10 channels first",
-    "notesHi": "फ़िल्म अब जल्दी चलती है, आज तक HD, टॉप 10 चैनल पहले",
-    "phoneFrom": 1794751350201,
+    "notes": "TV par sab pages zyada smooth; TV style phone/tablet par touch se; search 2 akshar par",
+    "notesEn": "Smoother on every TV page; TV style works by touch on phones and tablets; search opens at 2 letters",
+    "notesHi": "टीवी पर सब पेज ज़्यादा स्मूथ; फ़ोन/टैबलेट पर टीवी स्टाइल टच से; सर्च 2 अक्षर पर",
+    "phoneFrom": 1794905580707,
     "required": false,
-    "tvFrom": 1794751350201,
-    "versionCode": 458748,
-    "versionName": "5.0.62"
+    "tvFrom": 1795164780707,
+    "versionCode": 461320,
+    "versionName": "5.3.23"
   },
   "v": 1
 }
