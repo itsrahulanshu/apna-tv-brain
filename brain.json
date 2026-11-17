@@ -1,5 +1,5 @@
 {
-  "issued": 1794905580737,
+  "issued": 1794908721226,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,32 +9,32 @@
     "apks": {
       "arm64-v8a": {
         "mirror": null,
-        "sha256": "2710b51460e266461538254b6ef87725595e3ebdfbe49d9e079b56daa2214571",
-        "size": 29110087,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.23/ApnaTV-5.3.23-20261117-1410-phone.apk"
+        "sha256": "ac91cfaff1c59fe1c8a543f9cbd90a4511a28f7797ced27c92039ec80969f7a4",
+        "size": 29110650,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.25/ApnaTV-5.3.25-20261117-1512-phone.apk"
       },
       "armeabi-v7a": {
         "mirror": null,
-        "sha256": "fe1945f94ae70fd1e8ebf90f6f8d4074bc491a2afbcbe8e1f15bcecfea951e32",
-        "size": 28794364,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.23/ApnaTV-5.3.23-20261117-1410-tv.apk"
+        "sha256": "e097b09ca65eb85a594afb1b48daeda505fe82ccc824db835b029504ebc904e9",
+        "size": 28794919,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.25/ApnaTV-5.3.25-20261117-1512-tv.apk"
       },
       "universal": {
         "mirror": null,
-        "sha256": "d08ba0d326049e4a0db2670855cc136a8e208873b4eac2a7d1ee7f23490cc20e",
-        "size": 33652828,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.23/ApnaTV-5.3.23-20261117-1410-universal.apk"
+        "sha256": "30b34d05fb128c235e7507163e57ad50fdd722a013a885b874996e7bb9d47327",
+        "size": 33653378,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.25/ApnaTV-5.3.25-20261117-1512-universal.apk"
       }
     },
     "minSdk": 23,
-    "notes": "TV par sab pages zyada smooth; TV style phone/tablet par touch se; search 2 akshar par",
-    "notesEn": "Smoother on every TV page; TV style works by touch on phones and tablets; search opens at 2 letters",
-    "notesHi": "टीवी पर सब पेज ज़्यादा स्मूथ; फ़ोन/टैबलेट पर टीवी स्टाइल टच से; सर्च 2 अक्षर पर",
-    "phoneFrom": 1794905580707,
+    "notes": "TV par sab pages zyada smooth; poora na dikhne wala naam cursor rukte hi chalta hai; khud chalayi film Aage dekhiye mein",
+    "notesEn": "Smoother on every TV page; names that do not fit scroll when the cursor rests; a film you started stays in Continue watching",
+    "notesHi": "टीवी पर सब पेज ज़्यादा स्मूथ; पूरा न दिखने वाला नाम कर्सर रुकते ही चलता है; ख़ुद चलाई फ़िल्म आगे देखिए में",
+    "phoneFrom": 1794908721199,
     "required": false,
-    "tvFrom": 1795164780707,
-    "versionCode": 461320,
-    "versionName": "5.3.23"
+    "tvFrom": 1795167921199,
+    "versionCode": 461381,
+    "versionName": "5.3.25"
   },
   "v": 1
 }
