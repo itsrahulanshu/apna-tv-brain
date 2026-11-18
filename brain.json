@@ -1,5 +1,5 @@
 {
-  "issued": 1795022489265,
+  "issued": 1795037954655,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,20 +9,20 @@
     "apks": {
       "universal": {
         "mirror": null,
-        "sha256": "480b346fbfcf68c3fa955221138356e1985ba1d54bd57a35c55e4cdf43df25dc",
-        "size": 33844132,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.74/ApnaTV-5.3.74.apk"
+        "sha256": "d58ee5aa09899812b4b42ea4b9faccca8b83f97f30921070dd1fcb1578bebce1",
+        "size": 33873776,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.79/ApnaTV-5.3.79.apk"
       }
     },
     "minSdk": 23,
-    "notes": "Naya Home, naya kaanch wala film aur series page (episode ki photo ke saath), TV player mein sirf Apna ke button; ab ek hi app file phone aur TV dono ke liye",
-    "notesEn": "New Home, a new glass film and series page (with episode photos), only Apna buttons in the TV player; one app file for both phone and TV",
-    "notesHi": "नया होम, नया काँच वाला फ़िल्म और सीरीज़ पेज (एपिसोड की फ़ोटो के साथ), टीवी प्लेयर में सिर्फ़ Apna के बटन; अब फ़ोन और टीवी दोनों के लिए एक ही ऐप फ़ाइल",
-    "phoneFrom": 1795022489237,
+    "notes": "Naya Lock (PIN aur fingerprint), mini player se page chhota nahi hota, web series sahi khulti hain, tooti photo theek, TV par naya loading screen",
+    "notesEn": "New Lock (PIN and fingerprint), pages no longer shrink with the mini player, web series open correctly, broken photos fixed, new TV loading screen",
+    "notesHi": "नया लॉक (PIN और फ़िंगरप्रिंट), मिनी प्लेयर से पेज छोटा नहीं होता, वेब सीरीज़ सही खुलती हैं, टूटी फ़ोटो ठीक, टीवी पर नया लोडिंग स्क्रीन",
+    "phoneFrom": 1795037954622,
     "required": false,
-    "tvFrom": 1795281689237,
-    "versionCode": 463278,
-    "versionName": "5.3.74"
+    "tvFrom": 1795297154622,
+    "versionCode": 463534,
+    "versionName": "5.3.79"
   },
   "v": 1
 }
