@@ -1,5 +1,5 @@
 {
-  "issued": 1795012258248,
+  "issued": 1795022489265,
   "never": [],
   "off": [],
   "plugins": [],
@@ -7,34 +7,22 @@
   "repos": [],
   "update": {
     "apks": {
-      "arm64-v8a": {
-        "mirror": null,
-        "sha256": "4ca86bf446bfb7efe8230b69ac5e9cc2ca1a47f806addbd75c3313e30b3cad9b",
-        "size": 29290938,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.69/ApnaTV-5.3.69-20261118-1959-phone.apk"
-      },
-      "armeabi-v7a": {
-        "mirror": null,
-        "sha256": "61cca2efe1106c686efee3d60d53cb3effe1472662dff35b43b41962762afe27",
-        "size": 28975220,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.69/ApnaTV-5.3.69-20261118-1959-tv.apk"
-      },
       "universal": {
         "mirror": null,
-        "sha256": "83df139b78269c8657954cb74d5ef60e14f3fc185c280ee2bad490fe886bb523",
-        "size": 33833690,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.69/ApnaTV-5.3.69-20261118-1959-universal.apk"
+        "sha256": "480b346fbfcf68c3fa955221138356e1985ba1d54bd57a35c55e4cdf43df25dc",
+        "size": 33844132,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.74/ApnaTV-5.3.74.apk"
       }
     },
     "minSdk": 23,
-    "notes": "Naya kaanch jaisa look, Screen style mein Tablet, nayi Settings aur naya setup; search usi page par",
-    "notesEn": "New glass look, Tablet screen style, new Settings and setup; search on the same page",
-    "notesHi": "नया काँच जैसा लुक, स्क्रीन स्टाइल में टैबलेट, नई सेटिंग्स और नया सेटअप; सर्च उसी पेज पर",
-    "phoneFrom": 1795012258211,
+    "notes": "Naya Home, naya kaanch wala film aur series page (episode ki photo ke saath), TV player mein sirf Apna ke button; ab ek hi app file phone aur TV dono ke liye",
+    "notesEn": "New Home, a new glass film and series page (with episode photos), only Apna buttons in the TV player; one app file for both phone and TV",
+    "notesHi": "नया होम, नया काँच वाला फ़िल्म और सीरीज़ पेज (एपिसोड की फ़ोटो के साथ), टीवी प्लेयर में सिर्फ़ Apna के बटन; अब फ़ोन और टीवी दोनों के लिए एक ही ऐप फ़ाइल",
+    "phoneFrom": 1795022489237,
     "required": false,
-    "tvFrom": 1795271458211,
-    "versionCode": 463108,
-    "versionName": "5.3.69"
+    "tvFrom": 1795281689237,
+    "versionCode": 463278,
+    "versionName": "5.3.74"
   },
   "v": 1
 }
