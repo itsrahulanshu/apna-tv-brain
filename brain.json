@@ -1,5 +1,5 @@
 {
-  "issued": 1794914107834,
+  "issued": 1794979872854,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,32 +9,32 @@
     "apks": {
       "arm64-v8a": {
         "mirror": null,
-        "sha256": "f398bbb99d840861da638b0c2a77e9756c8e16409ab7d3e3215b42ac1d50782c",
-        "size": 29144870,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.28/ApnaTV-5.3.28-20261117-1640-phone.apk"
+        "sha256": "7547b8ab6576dda68b907c0db14ef42010aaa9351304658281ebd131cc3ad9cf",
+        "size": 29229604,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.60/ApnaTV-5.3.60-20261118-0503-phone.apk"
       },
       "armeabi-v7a": {
         "mirror": null,
-        "sha256": "e34d2dad1b813b1982963bd9ee291e4e041e46e64b66f367adaeee8a8d72477a",
-        "size": 28829144,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.28/ApnaTV-5.3.28-20261117-1640-tv.apk"
+        "sha256": "a110865e906c14fa6684f35c12597d0bc2281c615eff9a1b91304146eb9296a5",
+        "size": 28913890,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.60/ApnaTV-5.3.60-20261118-0503-tv.apk"
       },
       "universal": {
         "mirror": null,
-        "sha256": "1bc0e1a76b2c4dddbda7ba48668edb7756cba51adad3d4e4cd264910427ed113",
-        "size": 33687603,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.28/ApnaTV-5.3.28-20261117-1640-universal.apk"
+        "sha256": "4c0be984070ad17328771f3aae2db59a3cace3ec1dfcc8cf5078598652997a7c",
+        "size": 33772356,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.60/ApnaTV-5.3.60-20261118-0503-universal.apk"
       }
     },
     "minSdk": 23,
-    "notes": "Aaj ke liye 14 pasand jaisi filmein; IMDb rating har page par; 3 poster sirf IMDb 8.0+",
-    "notesEn": "Today's Picks: 14 titles like what you watch; IMDb ratings on pages; the 3 posters only IMDb 8.0+",
-    "notesHi": "आज के लिए 14 पसंद जैसी फ़िल्में; हर पेज पर IMDb रेटिंग; 3 पोस्टर सिर्फ़ IMDb 8.0+",
-    "phoneFrom": 1794914107806,
+    "notes": "Film ya web series ab TMDB se pakka; Sweet Tooth, Mirzapur sahi khulte hain; search usi page par",
+    "notesEn": "Film or web series now checked with TMDB; Sweet Tooth and Mirzapur open right; search stays on the same page",
+    "notesHi": "फ़िल्म या वेब सीरीज़ अब TMDB से पक्का; Sweet Tooth, Mirzapur सही खुलते हैं; सर्च उसी पेज पर",
+    "phoneFrom": 1794979872826,
     "required": false,
-    "tvFrom": 1795173307806,
-    "versionCode": 461470,
-    "versionName": "5.3.28"
+    "tvFrom": 1795239072826,
+    "versionCode": 462213,
+    "versionName": "5.3.60"
   },
   "v": 1
 }
