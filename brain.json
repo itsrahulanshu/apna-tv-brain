@@ -1,5 +1,5 @@
 {
-  "issued": 1794979872854,
+  "issued": 1795012258248,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,32 +9,32 @@
     "apks": {
       "arm64-v8a": {
         "mirror": null,
-        "sha256": "7547b8ab6576dda68b907c0db14ef42010aaa9351304658281ebd131cc3ad9cf",
-        "size": 29229604,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.60/ApnaTV-5.3.60-20261118-0503-phone.apk"
+        "sha256": "4ca86bf446bfb7efe8230b69ac5e9cc2ca1a47f806addbd75c3313e30b3cad9b",
+        "size": 29290938,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.69/ApnaTV-5.3.69-20261118-1959-phone.apk"
       },
       "armeabi-v7a": {
         "mirror": null,
-        "sha256": "a110865e906c14fa6684f35c12597d0bc2281c615eff9a1b91304146eb9296a5",
-        "size": 28913890,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.60/ApnaTV-5.3.60-20261118-0503-tv.apk"
+        "sha256": "61cca2efe1106c686efee3d60d53cb3effe1472662dff35b43b41962762afe27",
+        "size": 28975220,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.69/ApnaTV-5.3.69-20261118-1959-tv.apk"
       },
       "universal": {
         "mirror": null,
-        "sha256": "4c0be984070ad17328771f3aae2db59a3cace3ec1dfcc8cf5078598652997a7c",
-        "size": 33772356,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.60/ApnaTV-5.3.60-20261118-0503-universal.apk"
+        "sha256": "83df139b78269c8657954cb74d5ef60e14f3fc185c280ee2bad490fe886bb523",
+        "size": 33833690,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.69/ApnaTV-5.3.69-20261118-1959-universal.apk"
       }
     },
     "minSdk": 23,
-    "notes": "Film ya web series ab TMDB se pakka; Sweet Tooth, Mirzapur sahi khulte hain; search usi page par",
-    "notesEn": "Film or web series now checked with TMDB; Sweet Tooth and Mirzapur open right; search stays on the same page",
-    "notesHi": "फ़िल्म या वेब सीरीज़ अब TMDB से पक्का; Sweet Tooth, Mirzapur सही खुलते हैं; सर्च उसी पेज पर",
-    "phoneFrom": 1794979872826,
+    "notes": "Naya kaanch jaisa look, Screen style mein Tablet, nayi Settings aur naya setup; search usi page par",
+    "notesEn": "New glass look, Tablet screen style, new Settings and setup; search on the same page",
+    "notesHi": "नया काँच जैसा लुक, स्क्रीन स्टाइल में टैबलेट, नई सेटिंग्स और नया सेटअप; सर्च उसी पेज पर",
+    "phoneFrom": 1795012258211,
     "required": false,
-    "tvFrom": 1795239072826,
-    "versionCode": 462213,
-    "versionName": "5.3.60"
+    "tvFrom": 1795271458211,
+    "versionCode": 463108,
+    "versionName": "5.3.69"
   },
   "v": 1
 }
