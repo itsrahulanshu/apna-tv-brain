@@ -1,5 +1,5 @@
 {
-  "issued": 1795037954655,
+  "issued": 1795086124762,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,20 +9,20 @@
     "apks": {
       "universal": {
         "mirror": null,
-        "sha256": "d58ee5aa09899812b4b42ea4b9faccca8b83f97f30921070dd1fcb1578bebce1",
-        "size": 33873776,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.79/ApnaTV-5.3.79.apk"
+        "sha256": "b0d4f8d4f74f3070bb42645e6b3f3fe35184f187c347761bdb8485799098fcff",
+        "size": 33896775,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.84/ApnaTV-5.3.84.apk"
       }
     },
     "minSdk": 23,
-    "notes": "Naya Lock (PIN aur fingerprint), mini player se page chhota nahi hota, web series sahi khulti hain, tooti photo theek, TV par naya loading screen",
-    "notesEn": "New Lock (PIN and fingerprint), pages no longer shrink with the mini player, web series open correctly, broken photos fixed, new TV loading screen",
-    "notesHi": "नया लॉक (PIN और फ़िंगरप्रिंट), मिनी प्लेयर से पेज छोटा नहीं होता, वेब सीरीज़ सही खुलती हैं, टूटी फ़ोटो ठीक, टीवी पर नया लोडिंग स्क्रीन",
-    "phoneFrom": 1795037954622,
+    "notes": "Naya watch page: film dabate hi upar chalti hai, neeche saari jaankari; naya full screen player, smooth ghoomna, Zoom Settings mein, tablet ke liye naya layout",
+    "notesEn": "New watch page: tap a film and it plays on top with details below; new full-screen player, smooth rotation, Zoom in Settings, new tablet layout",
+    "notesHi": "नया वॉच पेज: फ़िल्म दबाते ही ऊपर चलती है, नीचे सारी जानकारी; नया फ़ुल स्क्रीन प्लेयर, स्मूद घूमना, ज़ूम सेटिंग में, टैबलेट के लिए नया लेआउट",
+    "phoneFrom": 1795086124727,
     "required": false,
-    "tvFrom": 1795297154622,
-    "versionCode": 463534,
-    "versionName": "5.3.79"
+    "tvFrom": 1795345324727,
+    "versionCode": 464293,
+    "versionName": "5.3.84"
   },
   "v": 1
 }
