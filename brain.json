@@ -1,5 +1,5 @@
 {
-  "issued": 1795086124762,
+  "issued": 1795095934333,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,20 +9,20 @@
     "apks": {
       "universal": {
         "mirror": null,
-        "sha256": "b0d4f8d4f74f3070bb42645e6b3f3fe35184f187c347761bdb8485799098fcff",
-        "size": 33896775,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.84/ApnaTV-5.3.84.apk"
+        "sha256": "bfa6ff86ac326cb6a93c3e3e02a04625948bdfb01de5d50e5f15b244d5f3ff8d",
+        "size": 33925606,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.85/ApnaTV-5.3.85.apk"
       }
     },
     "minSdk": 23,
-    "notes": "Naya watch page: film dabate hi upar chalti hai, neeche saari jaankari; naya full screen player, smooth ghoomna, Zoom Settings mein, tablet ke liye naya layout",
-    "notesEn": "New watch page: tap a film and it plays on top with details below; new full-screen player, smooth rotation, Zoom in Settings, new tablet layout",
-    "notesHi": "नया वॉच पेज: फ़िल्म दबाते ही ऊपर चलती है, नीचे सारी जानकारी; नया फ़ुल स्क्रीन प्लेयर, स्मूद घूमना, ज़ूम सेटिंग में, टैबलेट के लिए नया लेआउट",
-    "phoneFrom": 1795086124727,
+    "notes": "Khel mein duniya ke saare chalte cricket match, har bhasha mein; Sab bhasha par doosri bhasha ki filmon ke extension; Sirf Hindi mein Bangla channel nahi",
+    "notesEn": "Sports shows every live cricket match in the world in every language; All languages adds film extensions in other languages; Hindi only no longer shows Bangla channels",
+    "notesHi": "खेल में दुनिया के सारे चलते क्रिकेट मैच, हर भाषा में; सब भाषा पर दूसरी भाषा की फ़िल्मों के एक्सटेंशन; सिर्फ़ हिंदी में बांग्ला चैनल नहीं",
+    "phoneFrom": 1795095934302,
     "required": false,
-    "tvFrom": 1795345324727,
-    "versionCode": 464293,
-    "versionName": "5.3.84"
+    "tvFrom": 1795355134302,
+    "versionCode": 464503,
+    "versionName": "5.3.85"
   },
   "v": 1
 }
