@@ -1,5 +1,5 @@
 {
-  "issued": 1795095934333,
+  "issued": 1795096419978,
   "never": [],
   "off": [],
   "plugins": [],
@@ -15,12 +15,12 @@
       }
     },
     "minSdk": 23,
-    "notes": "Khel mein duniya ke saare chalte cricket match, har bhasha mein; Sab bhasha par doosri bhasha ki filmon ke extension; Sirf Hindi mein Bangla channel nahi",
-    "notesEn": "Sports shows every live cricket match in the world in every language; All languages adds film extensions in other languages; Hindi only no longer shows Bangla channels",
-    "notesHi": "खेल में दुनिया के सारे चलते क्रिकेट मैच, हर भाषा में; सब भाषा पर दूसरी भाषा की फ़िल्मों के एक्सटेंशन; सिर्फ़ हिंदी में बांग्ला चैनल नहीं",
-    "phoneFrom": 1795095934302,
+    "notes": "Minor feature update",
+    "notesEn": "Minor feature update",
+    "notesHi": "छोटा फ़ीचर अपडेट",
+    "phoneFrom": 1795096419948,
     "required": false,
-    "tvFrom": 1795355134302,
+    "tvFrom": 1795355619948,
     "versionCode": 464503,
     "versionName": "5.3.85"
   },
