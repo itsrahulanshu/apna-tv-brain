@@ -1,5 +1,5 @@
 {
-  "issued": 1795096419978,
+  "issued": 1795096521818,
   "never": [],
   "off": [],
   "plugins": [],
@@ -18,9 +18,9 @@
     "notes": "Minor feature update",
     "notesEn": "Minor feature update",
     "notesHi": "छोटा फ़ीचर अपडेट",
-    "phoneFrom": 1795096419948,
+    "phoneFrom": 1795096521789,
     "required": false,
-    "tvFrom": 1795355619948,
+    "tvFrom": 1795096521789,
     "versionCode": 464503,
     "versionName": "5.3.85"
   },
