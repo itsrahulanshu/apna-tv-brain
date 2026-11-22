@@ -1,5 +1,5 @@
 {
-  "issued": 1795096521818,
+  "issued": 1795381860636,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,20 +9,20 @@
     "apks": {
       "universal": {
         "mirror": null,
-        "sha256": "bfa6ff86ac326cb6a93c3e3e02a04625948bdfb01de5d50e5f15b244d5f3ff8d",
-        "size": 33925606,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.3.85/ApnaTV-5.3.85.apk"
+        "sha256": "8a280fcfb7bdba9c49c4ecf5abadad2d9c98317da67a88e04e208f280988ea11",
+        "size": 30181904,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.4.30/ApnaTV-5.4.30.apk"
       }
     },
-    "minSdk": 23,
+    "minSdk": 28,
     "notes": "Minor feature update",
     "notesEn": "Minor feature update",
     "notesHi": "छोटा फ़ीचर अपडेट",
-    "phoneFrom": 1795096521789,
+    "phoneFrom": 1795381860598,
     "required": false,
-    "tvFrom": 1795096521789,
-    "versionCode": 464503,
-    "versionName": "5.3.85"
+    "tvFrom": 1795381860598,
+    "versionCode": 469267,
+    "versionName": "5.4.30"
   },
   "v": 1
 }
