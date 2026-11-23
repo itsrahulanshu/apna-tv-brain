@@ -1,5 +1,5 @@
 {
-  "issued": 1795391144378,
+  "issued": 1795411830416,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,20 +9,20 @@
     "apks": {
       "universal": {
         "mirror": null,
-        "sha256": "6effaf6193a02189dc846fad09520343ddd81cd209b7a909004160cf91563430",
-        "size": 30179509,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.4.31/ApnaTV-5.4.31.apk"
+        "sha256": "ca13794c57b91c9671513f60b185b28b4dc2c83ebe1beac168d1a9c1b257cc25",
+        "size": 30182649,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.4.32/ApnaTV-5.4.32.apk"
       }
     },
     "minSdk": 28,
-    "notes": "Minor feature update",
-    "notesEn": "Minor feature update",
-    "notesHi": "छोटा फ़ीचर अपडेट",
-    "phoneFrom": 1795391144353,
+    "notes": "Naye source: ab Stremio aur Nuvio bhi jod sakte hain · Settings mein UI ke kuch sudhaar · TV par search ke liye naya keyboard",
+    "notesEn": "New sources: Stremio and Nuvio can now be added · Some UI improvements in Settings · A new keyboard for search on TV",
+    "notesHi": "नए सोर्स: अब Stremio और Nuvio भी जोड़ सकते हैं · Settings में UI के कुछ सुधार · TV पर खोज के लिए नया कीबोर्ड",
+    "phoneFrom": 1795411830385,
     "required": false,
-    "tvFrom": 1795391144353,
-    "versionCode": 469422,
-    "versionName": "5.4.31"
+    "tvFrom": 1795411830385,
+    "versionCode": 469768,
+    "versionName": "5.4.32"
   },
   "v": 1
 }
