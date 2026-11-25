@@ -1,5 +1,5 @@
 {
-  "issued": 1795607489756,
+  "issued": 1795608764651,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,20 +9,20 @@
     "apks": {
       "universal": {
         "mirror": null,
-        "sha256": "30216248aa4bcdb5ba967af4dabfa32b81e5ac79b54be5298df6f25519a5f202",
-        "size": 30305998,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.4.46/ApnaTV-5.4.46.apk"
+        "sha256": "e546e31ce199d230b7207b2089f9f35c5c880f8081d8f44227c96d1d783987ae",
+        "size": 30301610,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.4.47/ApnaTV-5.4.47.apk"
       }
     },
     "minSdk": 28,
     "notes": "Tez loading aur pehle se smooth app · Movies ab pehle se jaldi load hoti hain · Design mein kuch sudhaar",
     "notesEn": "Faster loading and smoother app · Movies load faster than before · Some UI improvements",
     "notesHi": "तेज़ लोडिंग और पहले से स्मूद ऐप · मूवीज़ अब पहले से जल्दी लोड होती हैं · डिज़ाइन में कुछ सुधार",
-    "phoneFrom": 1795607489724,
+    "phoneFrom": 1795608764626,
     "required": false,
-    "tvFrom": 1795607489724,
-    "versionCode": 473026,
-    "versionName": "5.4.46"
+    "tvFrom": 1795608764626,
+    "versionCode": 473043,
+    "versionName": "5.4.47"
   },
   "v": 1
 }
