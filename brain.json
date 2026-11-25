@@ -1,5 +1,5 @@
 {
-  "issued": 1795415031116,
+  "issued": 1795604121885,
   "never": [],
   "off": [],
   "plugins": [],
@@ -9,20 +9,20 @@
     "apks": {
       "universal": {
         "mirror": null,
-        "sha256": "975c8bf79956770efb5d5b0ee571bec9fff9a2e37fc0a588036df17cf01226b3",
-        "size": 30183737,
-        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.4.33/ApnaTV-5.4.33.apk"
+        "sha256": "e6ca0c9b9c55ef34348453b934e95db6523a4cf77d1492ccd561ac70ceba5ce8",
+        "size": 30295434,
+        "url": "https://github.com/itsrahulanshu/apna-tv-brain/releases/download/v5.4.45/ApnaTV-5.4.45.apk"
       }
     },
     "minSdk": 28,
-    "notes": "Naye source: ab Stremio aur Nuvio bhi jod sakte hain · Settings mein UI ke kuch sudhaar · TV par search ke liye naya keyboard",
-    "notesEn": "New sources: Stremio and Nuvio can now be added · Some UI improvements in Settings · A new keyboard for search on TV",
-    "notesHi": "नए सोर्स: अब Stremio और Nuvio भी जोड़ सकते हैं · Settings में UI के कुछ सुधार · TV पर खोज के लिए नया कीबोर्ड",
-    "phoneFrom": 1795415031088,
+    "notes": "Tez loading aur pehle se smooth app · Movies ab pehle se jaldi load hoti hain · Design mein kuch sudhaar",
+    "notesEn": "Faster loading and smoother app · Movies load faster than before · Some UI improvements",
+    "notesHi": "तेज़ लोडिंग और पहले से स्मूद ऐप · मूवीज़ अब पहले से जल्दी लोड होती हैं · डिज़ाइन में कुछ सुधार",
+    "phoneFrom": 1795604121857,
     "required": false,
-    "tvFrom": 1795415031088,
-    "versionCode": 469821,
-    "versionName": "5.4.33"
+    "tvFrom": 1795604121857,
+    "versionCode": 472968,
+    "versionName": "5.4.45"
   },
   "v": 1
 }
